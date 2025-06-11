@@ -18,7 +18,7 @@
 
 > 💻 实测：我让它写了个爬取豆瓣电影 TOP250 的脚本，10 分钟出代码，还附带注释。
 
-![Perplexity合租](/image6/perplexity 1.png)
+![Perplexity合租](/image6/perplexity1.png)
 
 ### 2. 报告生成器（摸鱼神器）
 
